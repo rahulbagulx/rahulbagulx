@@ -19,10 +19,10 @@ I'm a **MERN Stack Developer** and a passionate **Full-Stack Web Developer**. I 
 Check out my projects at: [bagulbytes.netlify.app](https://bagulbytes.netlify.app/)
 
 ### 📊 GitHub Stats
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbagul&show_icons=true&theme=dark)
+![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbagulx&show_icons=true&theme=dark)
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulbagul) 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/rahulbagul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulbagulx) 
+[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/rahulbagulx)
 
 🚀 **Let's Build Something Amazing!**
