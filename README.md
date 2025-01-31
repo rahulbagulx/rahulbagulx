@@ -28,6 +28,7 @@ Check out my projects at: [bagulbytes.netlify.app](https://bagulbytes.netlify.ap
 
 ### 📊 GitHub Stats
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbagulx&show_icons=true&theme=dark)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahulbagulx&layout=compact&theme=dark)
 ---
 
