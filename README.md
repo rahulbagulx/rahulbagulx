@@ -1,4 +1,4 @@
-### Hi there, I'm Rahul Bagul! 👋
+### Hi there, I'm RAHUL BAGUL! 👋
 
 I'm a **MERN Stack Developer** and a passionate **Full-Stack Web Developer**. I love building modern, responsive, and scalable web applications.
 
