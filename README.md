@@ -1,11 +1,13 @@
 
 ### Hi there, I'm RAHUL BAGUL! 👋
 
-I'm a **MERN Stack Developer** and a passionate **Full-Stack Web Developer**. I love building modern, user-friendly, responsive, and scalable web applications.
+**MERN Stack Developer | Full-Stack Web Developer**  
+
+I’m a passionate **MERN Stack Developer** and **Full-Stack Web Developer** who loves building **modern, user-friendly, responsive, and scalable web applications**. I thrive on turning ideas into reality through clean, efficient code and solving complex problems with innovative solutions.
 
 ---
 
-### 🚀 About Me
+### 🚀 What I Do
 - 🔥 MERN Stack Developer | Full-Stack Web Developer
 - 💻 Passionate about coding and problem-solving
 - 🌱 Currently improving my skills in **backend development & API integration**
@@ -23,7 +25,7 @@ I'm a **MERN Stack Developer** and a passionate **Full-Stack Web Developer**. I 
 
 ---
 
-### 📌 Projects
+### 📌 Featured Projects
 Check out my projects at: [bagulbytes.netlify.app](https://bagulbytes.netlify.app/)
 
 ### 📊 GitHub Stats
@@ -34,5 +36,6 @@ Check out my projects at: [bagulbytes.netlify.app](https://bagulbytes.netlify.ap
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulbagulx) 
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/rahulbagulx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat)](https://bagulbytes.netlify.app/)  
 
-🚀 **Let's Build Something Amazing!**
+🚀 **Let's Build Something Amazing Together!**
