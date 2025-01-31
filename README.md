@@ -32,8 +32,7 @@ Check out my projects at: [bagulbytes.netlify.app](https://bagulbytes.netlify.ap
 ---
 
 ### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulbagulx) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahulbagulx)    
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=flat&logo=twitter)](https://twitter.com/rahulbagulx)
 
 🚀 **Let's Build Something Amazing!**
