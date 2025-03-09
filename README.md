@@ -12,7 +12,7 @@ I’m a passionate **MERN Stack Developer** and **Full-Stack Web Developer** who
 - 💻 Passionate about coding and problem-solving
 - 🌱 Currently improving my skills in **backend development & API integration**
 - 🛠️ Exploring **open-source contributions** and **freelancing**
-- 📫 Reach me at: [rahulbagul.netlify.app](https://rahulbagulx.vercel.app)
+- 📫 Reach me at: [rahulbagulx.vercel.app](https://rahulbagulx.vercel.app)
 
 ---
 
@@ -26,7 +26,7 @@ I’m a passionate **MERN Stack Developer** and **Full-Stack Web Developer** who
 ---
 
 ### 📌 Featured Projects
-Check out my projects at: [bagulbytes.netlify.app](https://rahulbagul.vercel.app)
+Check out my projects at: [rahulbagul.vercel.app](https://rahulbagul.vercel.app)
 
 ### 📊 GitHub Stats
 ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahulbagulx&show_icons=true&theme=dark)
